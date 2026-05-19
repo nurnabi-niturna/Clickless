@@ -1,6 +1,8 @@
 {
   "type": "module",
   "dependencies": {
+    "@hubspot/api-client": "^13.5.0",
+    "csv-parser": "^3.2.1",
     "dotenv": "^17.4.2"
   }
 }
